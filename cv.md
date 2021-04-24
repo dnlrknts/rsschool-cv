@@ -26,7 +26,7 @@
 ***
 # Code example
 Java code in the frame of the university program
-
+<https://github.com/dnlrknts/Java_var10>
 ***
 # Education
 BSU , Faculty of Mechanics and Mathematics , math and software for mobile devices.
