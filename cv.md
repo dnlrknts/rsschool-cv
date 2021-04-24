@@ -10,7 +10,7 @@
 *   Discord:whiteshark53#9336
 ***
 # Summary
-
+I have high analytical skills,I learn quickly.
 ***
 # Skills
 *  C++
